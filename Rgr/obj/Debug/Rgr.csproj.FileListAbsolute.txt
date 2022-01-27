@@ -1,0 +1,14 @@
+C:\Users\Вова\source\repos\Rgr\Rgr\obj\Debug\Rgr.csprojAssemblyReference.cache
+C:\Users\Вова\source\repos\Rgr\Rgr\obj\Debug\Rgr.csproj.CoreCompileInputs.cache
+C:\Users\Вова\source\repos\Rgr\Rgr\bin\Debug\Rgr.exe.config
+C:\Users\Вова\source\repos\Rgr\Rgr\bin\Debug\Rgr.exe
+C:\Users\Вова\source\repos\Rgr\Rgr\bin\Debug\Rgr.pdb
+C:\Users\Вова\source\repos\Rgr\Rgr\obj\Debug\Rgr.exe
+C:\Users\Вова\source\repos\Rgr\Rgr\obj\Debug\Rgr.pdb
+C:\Users\aviat\source\repos\Rgr\Rgr\bin\Debug\Rgr.exe.config
+C:\Users\aviat\source\repos\Rgr\Rgr\bin\Debug\Rgr.exe
+C:\Users\aviat\source\repos\Rgr\Rgr\bin\Debug\Rgr.pdb
+C:\Users\aviat\source\repos\Rgr\Rgr\obj\Debug\Rgr.csprojAssemblyReference.cache
+C:\Users\aviat\source\repos\Rgr\Rgr\obj\Debug\Rgr.csproj.CoreCompileInputs.cache
+C:\Users\aviat\source\repos\Rgr\Rgr\obj\Debug\Rgr.exe
+C:\Users\aviat\source\repos\Rgr\Rgr\obj\Debug\Rgr.pdb
